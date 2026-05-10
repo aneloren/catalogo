@@ -18,7 +18,15 @@
     "descripcion": "Estructura rectangular ultraligera. Material con memoria de forma que garantiza comodidad prolongada."
   },
   {
-    "id": "rec-02",
+  "id": "rec-02",
+  "modelo": "Rectangular Superman Pro",
+  "material": "Nylon PA12",
+  "color": "Azul Cristal",
+  "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/imagenes/rectangulares_azul_superman.png",
+  "descripcion": "Edición especial con logo de Superman en la varilla. Diseño ligero y ergonómico para niños."
+},
+  {
+    "id": "rec-03",
     "modelo": "Rectangular Café",
     "material": "Nylon PA12",
     "color": "Café Tabaco",
@@ -27,7 +35,7 @@
     "descripcion": "Marco robusto con acabado mate. Optimizado para cristales de mayor espesor."
   },
   {
-    "id": "rec-03",
+    "id": "rec-04",
     "modelo": "Rectangular Morado",
     "material": "Nylon PA12",
     "color": "Morado",
