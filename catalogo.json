@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ov-01",
+    "modelo": "Ovalado Negro Varillas Rojas",
+    "material": "Nylon PA12",
+    "color": "Negro/Rojo",
+    "estilo": "Vanguardia",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/ovalados_negros_varillas_rojas.png",
+    "descripcion": "Montura de diseño híbrido con contraste cromático. Fabricado mediante impresión 3D SLS para máxima durabilidad."
+  },
+  {
+    "id": "rec-01",
+    "modelo": "Rectangular Azul",
+    "material": "TR90",
+    "color": "Azul Ocean",
+    "estilo": "Clásico",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/rectangulares_azul.png",
+    "descripcion": "Estructura rectangular ultraligera. Material con memoria de forma que garantiza comodidad prolongada."
+  },
+  {
+    "id": "rec-02",
+    "modelo": "Rectangular Café",
+    "material": "Nylon PA12",
+    "color": "Café Tabaco",
+    "estilo": "Ejecutivo",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/rectangulares_cafe.png",
+    "descripcion": "Marco robusto con acabado mate. Optimizado para cristales de mayor espesor."
+  },
+  {
+    "id": "rec-03",
+    "modelo": "Rectangular Morado",
+    "material": "Nylon PA12",
+    "color": "Morado",
+    "estilo": "Moderno",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/rectangulares_morado.png",
+    "descripcion": "Diseño rectangular en tono vibrante. Alta resistencia química y mecánica."
+  },
+  {
+    "id": "red-01",
+    "modelo": "Redondo Azul Rey",
+    "material": "Nylon PA11",
+    "color": "Azul Rey",
+    "estilo": "Minimalista",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/redondos_azul_rey.png",
+    "descripcion": "Estilo icónico fabricado en poliamida bio-basada. Flexible y altamente sostenible."
+  },
+  {
+    "id": "red-02",
+    "modelo": "Redondo Azul",
+    "material": "TR90",
+    "color": "Azul",
+    "estilo": "Urbano",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/redondos_azul.png",
+    "descripcion": "Montura circular ligera ideal para uso diario y rostros cuadrados."
+  },
+  {
+    "id": "red-03",
+    "modelo": "Redondo Café",
+    "material": "Nylon PA12",
+    "color": "Café",
+    "estilo": "Vintage",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/redondos_cafe.png",
+    "descripcion": "Acabado artesanal digital con textura suave al tacto y alta precisión en bisagras."
+  },
+  {
+    "id": "red-04",
+    "modelo": "Redondo Camel",
+    "material": "Nylon PA12",
+    "color": "Camel",
+    "estilo": "Soft",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/redondos_camel.png",
+    "descripcion": "Tono neutro que se adapta a diversos tonos de piel. Diseño balanceado y ligero."
+  },
+  {
+    "id": "red-05",
+    "modelo": "Redondo Negro",
+    "material": "Nylon PA12",
+    "color": "Negro Mate",
+    "estilo": "Esencial",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/redondos_negro.png",
+    "descripcion": "El estándar de diseño en 3D. Versátil, resistente y con un acabado profesional de alta gama."
+  },
+  {
+    "id": "red-06",
+    "modelo": "Redondo Rojo",
+    "material": "Nylon PA11",
+    "color": "Rojo",
+    "estilo": "Audaz",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/redondos_rojo.png",
+    "descripcion": "Marco circular en color sólido intenso. Material hipoalergénico de origen natural."
+  }
+]
