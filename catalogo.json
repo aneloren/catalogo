@@ -1,12 +1,21 @@
 [
-  {
+    {
     "id": "ov-01",
+    "modelo": "Ovalado Fucsia",
+    "material": "Nylon PA12",
+    "color": "Fucsia",
+    "estilo": "Vanguardia",
+    "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/ovalados_fucsia.png",
+    "descripcion": "Montura de diseño híbrido. Fabricado mediante impresión 3D SLS para máxima durabilidad para niñas."
+  },
+  {
+    "id": "ov-02",
     "modelo": "Ovalado Negro Varillas Rojas",
     "material": "Nylon PA12",
     "color": "Negro/Rojo",
     "estilo": "Vanguardia",
     "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/ovalados_negros_varillas_rojas.png",
-    "descripcion": "Montura de diseño híbrido con contraste cromático. Fabricado mediante impresión 3D SLS para máxima durabilidad."
+    "descripcion": "Montura de diseño híbrido. Fabricado mediante impresión 3D SLS para máxima durabilidad para niños."
   },
   {
     "id": "rec-01",
