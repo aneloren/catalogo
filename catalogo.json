@@ -11,7 +11,7 @@
   {
     "id": "rec-01",
     "modelo": "Rectangular Azul",
-    "material": "TR90",
+    "material": "Nylon PA12",
     "color": "Azul Ocean",
     "estilo": "Clásico",
     "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/rectangulares_azul.png",
@@ -47,7 +47,7 @@
   {
     "id": "red-02",
     "modelo": "Redondo Azul",
-    "material": "TR90",
+    "material": "Nylon PA12",
     "color": "Azul",
     "estilo": "Urbano",
     "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/redondos_azul.png",
