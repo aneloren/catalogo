@@ -6,7 +6,7 @@
     "color": "Fucsia",
     "estilo": "Vanguardia",
     "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/ovalados_fucsia.png",
-    "descripcion": "Montura de diseño híbrido. Fabricado mediante impresión 3D SLS para máxima durabilidad para niñas."
+    "descripcion": "Montura de diseño vanguardista. Fabricado mediante impresión 3D SLS para máxima durabilidad para niñas."
   },
   {
     "id": "ov-02",
@@ -15,7 +15,7 @@
     "color": "Negro/Rojo",
     "estilo": "Vanguardia",
     "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/ovalados_negros_varillas_rojas.png",
-    "descripcion": "Montura de diseño híbrido. Fabricado mediante impresión 3D SLS para máxima durabilidad para niños."
+    "descripcion": "Montura de diseño vanguardiasta. Fabricado mediante impresión 3D SLS para máxima durabilidad para niños."
   },
   {
     "id": "rec-01",
@@ -39,9 +39,9 @@
     "modelo": "Rectangular Café",
     "material": "Nylon PA12",
     "color": "Café Tabaco",
-    "estilo": "Ejecutivo",
+    "estilo": "Clásico",
     "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/rectangulares_cafe.png",
-    "descripcion": "Marco robusto con acabado mate. Optimizado para cristales de mayor espesor."
+    "descripcion": "Marco robusto clásico con acabado mate. Optimizado para cristales de mayor espesor."
   },
   {
     "id": "rec-04",
@@ -68,7 +68,7 @@
     "color": "Azul",
     "estilo": "Urbano",
     "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/redondos_azul.png",
-    "descripcion": "Montura circular ligera ideal para uso diario y rostros cuadrados."
+    "descripcion": "Montura circular ligera ideal para uso diario de niños y rostros cuadrados."
   },
   {
     "id": "red-03",
@@ -77,7 +77,7 @@
     "color": "Café",
     "estilo": "Vintage",
     "url_imagen": "https://raw.githubusercontent.com/aneloren/catalogo/main/redondos_cafe.png",
-    "descripcion": "Acabado artesanal digital con textura suave al tacto y alta precisión en bisagras."
+    "descripcion": "Acabado artesanal digital con textura suave al tacto y alta precisión."
   },
   {
     "id": "red-04",
