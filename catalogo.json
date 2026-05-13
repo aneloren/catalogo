@@ -54,15 +54,6 @@
     },
     {
       "id": 7,
-      "nombre": "Rectangulares Azul Superman",
-      "tipo": "lentes ópticos",
-      "estilo": "Diseño",
-      "descripcion": "Marco rectangular azul con temática de Superman. El material es Nylon 11, ecológico, flexible y resistente para niños.",
-      "precio": 70000,
-      "imagen": "rectangulares_azul_superman.png"
-    },
-    {
-      "id": 8,
       "nombre": "Rectangulares Café",
       "tipo": "lentes ópticos",
       "estilo": "Clásico",
@@ -71,16 +62,7 @@
       "imagen": "rectangulares_cafe.png"
     },
     {
-      "id": 9,
-      "nombre": "Rectangulares Diseño Superman",
-      "tipo": "lentes ópticos",
-      "estilo": "Diseño",
-      "descripcion": "Marco rectangular con detalles especiales de Superman. El material es Nylon 11, flexible, ecológico y resistente para niños.",
-      "precio": 70000,
-      "imagen": "rectangulares_diseno_superman.png"
-    },
-    {
-      "id": 10,
+      "id": 8,
       "nombre": "Rectangulares Morado",
       "tipo": "lentes ópticos",
       "estilo": "Clásico",
@@ -89,7 +71,7 @@
       "imagen": "rectangulares_morado.png"
     },
     {
-      "id": 11,
+      "id": 9,
       "nombre": "Redondos Azul",
       "tipo": "lentes ópticos",
       "estilo": "Clásico",
@@ -98,7 +80,7 @@
       "imagen": "redondos_azul.png"
     },
     {
-      "id": 12,
+      "id": 10,
       "nombre": "Redondos Azul Rey",
       "tipo": "lentes ópticos",
       "estilo": "Clásico",
@@ -107,7 +89,7 @@
       "imagen": "redondos_azul_rey.png"
     },
     {
-      "id": 13,
+      "id": 11,
       "nombre": "Redondos Café",
       "tipo": "lentes ópticos",
       "estilo": "Clásico",
@@ -116,7 +98,7 @@
       "imagen": "redondos_cafe.png"
     },
     {
-      "id": 14,
+      "id": 12,
       "nombre": "Redondos Camel",
       "tipo": "lentes ópticos",
       "estilo": "Clásico",
@@ -125,7 +107,7 @@
       "imagen": "redondos_camel.png"
     },
     {
-      "id": 15,
+      "id": 13,
       "nombre": "Redondos Negro",
       "tipo": "lentes ópticos",
       "estilo": "Clásico",
@@ -134,7 +116,7 @@
       "imagen": "redondos_negro.png"
     },
     {
-      "id": 16,
+      "id": 14,
       "nombre": "Redondos Rojo",
       "tipo": "lentes ópticos",
       "estilo": "Clásico",
@@ -143,7 +125,7 @@
       "imagen": "redondos_rojo.png"
     },
     {
-      "id": 17,
+      "id": 15,
       "nombre": "Sol Diseño Dinosaurio",
       "tipo": "lentes de sol",
       "estilo": "Diseño",
@@ -152,7 +134,7 @@
       "imagen": "sol_diseno_dinosaurio.png"
     },
     {
-      "id": 18,
+      "id": 16,
       "nombre": "Sol Diseño Flores",
       "tipo": "lentes de sol",
       "estilo": "Diseño",
@@ -161,7 +143,7 @@
       "imagen": "sol_diseno_flores.png"
     },
     {
-      "id": 19,
+      "id": 17,
       "nombre": "Sol Ovalados Azul Rey",
       "tipo": "lentes de sol",
       "estilo": "Clásico",
@@ -170,7 +152,7 @@
       "imagen": "sol_ovalados_azul_rey.png"
     },
     {
-      "id": 20,
+      "id": 18,
       "nombre": "Sol Ovalados Celeste",
       "tipo": "lentes de sol",
       "estilo": "Clásico",
@@ -179,7 +161,7 @@
       "imagen": "sol_ovalados_celeste.png"
     },
     {
-      "id": 21,
+      "id": 19,
       "nombre": "Sol Ovalados Fucsia",
       "tipo": "lentes de sol",
       "estilo": "Clásico",
@@ -188,7 +170,7 @@
       "imagen": "sol_ovalados_fucsia.png"
     },
     {
-      "id": 22,
+      "id": 20,
       "nombre": "Sol Ovalados Lila",
       "tipo": "lentes de sol",
       "estilo": "Clásico",
@@ -197,7 +179,7 @@
       "imagen": "sol_ovalados_lila.png"
     },
     {
-      "id": 23,
+      "id": 21,
       "nombre": "Sol Ovalados Transparentes",
       "tipo": "lentes de sol",
       "estilo": "Clásico",
@@ -206,7 +188,7 @@
       "imagen": "sol_ovalados_transparentes.png"
     },
     {
-      "id": 24,
+      "id": 22,
       "nombre": "Sol Rectangulares Verdes",
       "tipo": "lentes de sol",
       "estilo": "Clásico",
@@ -215,7 +197,7 @@
       "imagen": "sol_rectangulares_verdes.png"
     },
     {
-      "id": 25,
+      "id": 23,
       "nombre": "Sol Redondos Morados",
       "tipo": "lentes de sol",
       "estilo": "Clásico",
@@ -224,7 +206,7 @@
       "imagen": "sol_redondos_morados.png"
     },
     {
-      "id": 26,
+      "id": 24,
       "nombre": "Sol Redondos Negros",
       "tipo": "lentes de sol",
       "estilo": "Clásico",
